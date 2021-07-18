@@ -30,22 +30,11 @@ I enjoyed these 7 days, you can as well. To register for next free 7 days bootca
 
 or follow SHAPEAI on:
 
-<li><a href=
-
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-
-<li><a href=
-
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-
-<li><a
-
-href=
-
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-
-be</a>
-
-<li><a href=
-
-"https://github.com/shapeai">GitHub</a>
+ <li> <a href="https://in.linkedin.com/company/shapeai">LinkedIn</a></li>
+  
+  
+  <li>  <a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a></li>
+  
+<li>    <a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a></li>
+  
+ <li>   <a href="https://github.com/shapeai">GitHub</a>  </li>
